@@ -4,7 +4,7 @@ Utilizing this kaggle dataset: https://www.kaggle.com/sootersaalu/amazon-top-50-
 
 The data is in great shape so data cleaning was mininmum.
 
-Currently: Still working on the EDA. 
+Currently: Created a simple code that suggests books based on ratings
 
-Next:I'd like to also try creating a recommender system based on User Ratings and number of Reviews.
+Next: I'd like to also try creating a recommender system based on User Ratings and number of Reviews.
 Tutorial I would follow for reference: https://www.datacamp.com/community/tutorials/recommender-systems-python
